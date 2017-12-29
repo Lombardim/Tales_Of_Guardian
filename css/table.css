@@ -1,0 +1,114 @@
+.art-Post table a,
+.art-Post table a:link,
+.art-Post table a:visited {
+	border:none;
+	}							
+	
+.art-Post table {
+	width:100%;
+	border-top:1px solid #c5cfd8;
+	border-right:1px solid #c5cfd8;
+	margin:1em auto;
+		border-collapse:collapse;
+	}
+
+.art-Post tr.odd td	{
+	background:#d7dbdf
+	}
+.art-Post tr.odd .column1	{
+	background:#4683b3;
+	}	
+.art-Post .column1	{
+	background:#4683b3;
+	color:#cde;
+	font-weight: bold;
+	}
+.art-Post td {
+	color:#678197;
+	border-bottom:1px solid #c5cfd8;
+	border-left:1px solid #c5cfd8;
+	padding:.3em 1em;	
+	}				
+.art-Post th {
+	font-weight:normal;
+	color: #678197;
+	border-bottom: 1px solid #c5cfd8;
+	border-left:1px solid #c5cfd8;
+	padding:.3em 1em;
+	}							
+.art-Post thead th {
+	background:#cde;
+	text-align:left;
+	font:bold 1em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	color:#4683b3
+	}	
+.art-Post tfoot th {
+	text-align:center;
+	background:#f4f9fe;
+	}	
+.art-Post tfoot th strong {
+	font:bold 1.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	margin:.5em .5em .5em 0;
+	color:#66a3d3;
+		}		
+.art-Post tfoot th em {
+	color:#f03b58;
+	font-weight: bold;
+	font-size: 1.1em;
+	font-style: normal;
+	}
+	
+.ntable table a,
+.ntable table a:link,
+.ntable table a:visited {
+	border:none;
+	}							
+	
+.ntable table {
+	width:100%;
+	border:0px;
+	margin:1em auto;
+		border-collapse:collapse;
+	}
+
+.ntable tr.odd td	{
+	background:#d7dbdf
+	}
+.ntable tr.odd .column1	{
+	background:#d4d9de;
+	}	
+.ntable .column1	{
+	background:#d9dcde;
+	}
+.ntable td {
+	color:#678197;
+	border:0px;
+	padding:.3em 1em;	
+	}				
+.ntable th {
+	font-weight:normal;
+	color: #678197;
+	border:0px;
+	padding:.3em 1em;
+	}							
+.ntable thead th {
+	background:#d4d9de;
+	text-align:center;
+	font:bold 1.2em/2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	color:#4683b3
+	}	
+.ntable tfoot th {
+	text-align:center;
+	background:#f4f9fe;
+	}	
+.ntable tfoot th strong {
+	font:bold 1.2em "Century Gothic","Trebuchet MS",Arial,Helvetica,sans-serif;
+	margin:.5em .5em .5em 0;
+	color:#66a3d3;
+		}		
+.ntable tfoot th em {
+	color:#f03b58;
+	font-weight: bold;
+	font-size: 1.1em;
+	font-style: normal;
+	}
